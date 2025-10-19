@@ -25,7 +25,7 @@ h1 {
     /* Les tailles de polices doivent être en rem */
     /* Viewport width */
     font-size: 8vw;
-    text-shadow: 3px 8px 20px #581ac5d9;
+    text-shadow: -2px -4px 20px #aba4b7d9;
     color: rgb(79 38 153 / 91%);
     font-family: "Oswald", sans-serif;
 }
